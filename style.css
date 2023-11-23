@@ -4,8 +4,9 @@ h1 {
 p {
   color: black;
 }
-iframe {
+img,
+video {
   width: 100%;
   height: auto;
-  aspect-ratio: 16/9;
+  display: block;
 }
